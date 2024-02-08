@@ -7,4 +7,4 @@ Instructions for Download:
 4) Right click file: A3Prj > Simulator_A3Prj.launch > run as Simulator_A3Prj
 
 Game Instructions:
-![alt text](https://github.com/[NairyV]/[AntGame]/blob/image.jpg?raw=true)
+![alt text](https://github.com/[NairyV]/[AntGame]/blob/instructionsAntGame.png?raw=true)
