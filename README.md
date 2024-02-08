@@ -1,4 +1,6 @@
 # AntGame
+![alt text](https://github.com/NairyV/JourneyGame/blob/main/JourneyGame%20Display.png)
+
 
 Instructions for Download:
 1) Download file from GitHub
